@@ -7,7 +7,7 @@ while True:
         print("-"*10)
     elif tung == "lapar":
         print("-"*10)
-        print("   mati").center()
+        print("   mati")
         print("-"*10)
     elif tung == "keluar":
         break
